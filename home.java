@@ -1,4 +1,4 @@
-class homeGit{
+class home1Git{
     public static void main(String[] args)
     {
         System.out.print("home");
